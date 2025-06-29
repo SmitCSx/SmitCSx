@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smit Chaudhari</h1>
 <h3 align="center">Passionate and driven computer science graduate with a strong interest in software engineering and AI.</h3>
 
-- 🔭 I’m currently working on **Andromeda X1,** a project to combine my coding skills with my passion for astrophysics :) 
+- 🔭 I’m currently working on **Andromeda X1,** a project to combine deep learning  with my passion for astrophysics :) 
 
 - 🌱 I’m currently learning **React**
 
